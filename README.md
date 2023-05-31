@@ -34,11 +34,4 @@ Contributions are welcome! If you would like to contribute to this project, foll
 4. Push your changes to your forked repository.
 5. Submit a pull request to the main repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- The clock design is inspired by XYZ's clock project (link to inspiration).
-- Thanks to ABC for providing valuable feedback and suggestions.
+##
