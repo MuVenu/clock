@@ -22,7 +22,7 @@ To use the clock, simply open the `main.html` file in a web browser. The clock w
 
 ## Screenshots
 
-![Clock Screenshot](screenshots/clock.png)
+clock.png
 
 ## How to Contribute
 
